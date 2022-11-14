@@ -24,7 +24,7 @@ let imScore=0
     guestEl.innerText=guScore
 }
  function gueSco3() {
-    guScore=guScore+3
+    guScore=guScore+4
     guestEl.innerText=guScore
 }
  
