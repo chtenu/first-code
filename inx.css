@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    color: white;
+}
+
+h2 {
+    font-family: 'Cursed Timer ULiL';
+    font-size: 70px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+#count-el {
+    width: 145px;
+    height: 90px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+#guest-el {
+    width: 145px;
+    height: 90px;
+    left: 30px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.end {
+
+    border: none;
+    padding: 10px 2px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.start {
+    border: none;
+    padding: 10px 2px;
+    text-align: center;
+
+}
